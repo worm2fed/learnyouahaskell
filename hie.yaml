@@ -1,0 +1,10 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "learnyouahaskell:lib"
+
+    - path: "./app/Main.hs"
+      component: "learnyouahaskell:exe:learnyouahaskell-exe"
+
+    - path: "./test"
+      component: "learnyouahaskell:test:learnyouahaskell-test"

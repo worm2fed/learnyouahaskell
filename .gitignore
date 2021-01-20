@@ -1,0 +1,6 @@
+.vscode/
+*.code-workspace
+
+.stack-work/
+
+.DS_Store
